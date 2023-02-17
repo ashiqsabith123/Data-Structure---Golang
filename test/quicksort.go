@@ -31,7 +31,7 @@ func partition(array []int, lower int, upper int) int {
 
 }
 
-func main() {
+func mai2() {
 
 	arr := []int{2, 33, 1, 54, 67, 89, 52, 34, 19, 0, -3}
 	middle := len(arr)
